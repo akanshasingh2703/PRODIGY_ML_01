@@ -10,7 +10,7 @@ This repository contains a machine learning project that predicts house prices u
 
 3. README.md: This file, providing an overview of the project.
 
-4.`predicted_prices.xlsx`: Excel file showing actual vs predicted house prices.
+ 4.`predicted_prices.xlsx`: Excel file showing actual vs predicted house prices.
 
 ## Project Overview
 
